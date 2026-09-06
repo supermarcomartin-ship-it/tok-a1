@@ -5,3 +5,7 @@ This page collects what people actually ask about this topic, and the tools list
 ## What this page is
 
 Assembled from measured search demand and published product data. It is a directory, not an opinion piece: nothing here is generated prose and no figures are estimated.
+
+## More in this cluster
+
+- [I built invovanta, an invoicing comparison](https://supermarcomartin-ship-it.github.io/tok-a1/posts/i-built-invovanta-an-invoicing-comparison/)
