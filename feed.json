@@ -1,0 +1,20 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Notes",
+  "home_page_url": "https://supermarcomartin-ship-it.github.io/tok-a1",
+  "feed_url": "https://supermarcomartin-ship-it.github.io/tok-a1/feed.json",
+  "items": [
+    {
+      "id": "https://supermarcomartin-ship-it.github.io/tok-a1/posts/international-chess-federation-sanctions-kramnik/",
+      "url": "https://supermarcomartin-ship-it.github.io/tok-a1/posts/international-chess-federation-sanctions-kramnik/",
+      "title": "international chess federation sanctions kramnik",
+      "date_published": "2026-09-06T13:15:44+00:00"
+    },
+    {
+      "id": "https://supermarcomartin-ship-it.github.io/tok-a1/posts/launch-hn-keet-yc-s24-an-app-to-create-video-courses-on-anyt/",
+      "url": "https://supermarcomartin-ship-it.github.io/tok-a1/posts/launch-hn-keet-yc-s24-an-app-to-create-video-courses-on-anyt/",
+      "title": "launch hn keet yc s24 an app to create video courses on anyt",
+      "date_published": "2026-09-06T13:15:44+00:00"
+    }
+  ]
+}
