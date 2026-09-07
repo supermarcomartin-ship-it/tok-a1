@@ -8,4 +8,4 @@ Assembled from measured search demand and published product data. It is a direct
 
 ## More in this cluster
 
-- [How fast can ship guide](https://supermarcomartin-ship-it.github.io/tok-a1/posts/how-fast-can-ship-guide/)
+- [Tax deadline planner](https://supermarcomartin-ship-it.github.io/tok-a1/posts/tax-deadline-planner/)
