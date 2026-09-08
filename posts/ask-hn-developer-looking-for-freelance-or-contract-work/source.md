@@ -12,3 +12,6 @@ Assembled from measured search demand and published product data. It is a direct
 - [Ask hn: founders of estonian e-businesses – is it worth it?](https://supermarcomartin-ship-it.github.io/tok-a1/posts/ask-hn-founders-of-estonian-e-businesses-is-it-worth-it/)
 - [Chinese imports plunge 30% to 40% after eu tax on small parcels](https://supermarcomartin-ship-it.github.io/tok-a1/posts/chinese-imports-plunge-30-to-40-after-eu-tax-on-small-parcel/)
 - [Invoiciz: easy invoice maker](https://supermarcomartin-ship-it.github.io/tok-a1/posts/invoiciz-easy-invoice-maker/)
+
+
+<!-- affiliate-slot: relevant products are inserted here once a network is connected -->
